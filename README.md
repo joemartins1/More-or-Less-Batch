@@ -14,7 +14,7 @@ Ce programme en Batch vous permet de jouer au jeu "Juste Prix" où vous devez de
 
 ## Vidéo explicative
 
-Pour voir une démonstration du programme en action, regardez cette courte vidéo explicative : [Lien vers la vidéo](https://youtu.be/5QhLwJQti-w)
+Pour voir une démonstration du programme en action et comment il a été programmé, regardez cette vidéo explicative : [Lien vers la vidéo](https://youtu.be/5QhLwJQti-w)
 
 ## Remarques
 
