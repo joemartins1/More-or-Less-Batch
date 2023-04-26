@@ -63,10 +63,4 @@ echo ----------------------------------
 echo Bravo ! Vous avez trouve le nombre %nbr% en %nbrcoups% coups
 echo ----------------------------------
 pause
-cls
-echo ----------------------------------
-set /p retry=Voulez-vous rejouer ? (Oui/Non): 
-echo ----------------------------------
-	if %retry%==Oui (goto :menu)
-	if %retry%==oui (goto :menu)
 exit
